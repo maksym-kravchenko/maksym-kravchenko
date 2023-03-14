@@ -2,6 +2,7 @@
 
 ### 🐱‍🚀About me: <br>
 <img align="right" alt="Java" width="400px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+My old profile <href src="https://github.com/maksyymK"/>
 🎂 17<br>
 🎬 I prefer watching Marvel & Netflix <br>
 👨🏻‍🎓 Сurrently studying in Switzerland <br><br>
