@@ -7,8 +7,8 @@
 👨🏻‍🎓 Сurrently studying in Switzerland <br><br>
 
 ### 👩🏻‍💻Tech Stack: <br>
-💻 Coding on Java & Kotlin <br>
-🎍Trying in Spring <br>
+💻 Coding on Java, Kotlin, C++ <br>
+🎍 Spring Boot<br>
 🎴 Android Development <br>
 <img align="left" alt="Java" width="40px" src="https://camo.githubusercontent.com/923eea6a54760c8adc876b3afab4fec69342f619a1428b14d8ae211d2f7801cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3035313232413f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d464641353138"/>
 <img align="left" alt="Git" width="50px" src="https://camo.githubusercontent.com/2fc774b6f44efd9ac27316c539e0e94f8e524f872dc5b1c3ef60266a598331bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974"/>
