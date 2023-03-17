@@ -8,6 +8,7 @@
 </a>
 <a href="https://twitter.com/maksyym_k">
   <img align="left" alt="Maksym | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <br>
 </a>
 <br>
 I'm Maks! I'm a self-taught backend developer and a studing software engineer from Ukraine. Сurrently I'm in Switzerland: studying and continuing coding.
