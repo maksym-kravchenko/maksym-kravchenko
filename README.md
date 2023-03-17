@@ -9,7 +9,7 @@
 <a href="https://twitter.com/maksyym_k">
   <img align="left" alt="Maksym | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
+<br>
 ### 🐱‍🚀About me: <br>
 <img align="right" alt="Java" width="400px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 I have some problems with old account -> <a href="https://github.com/maksyymK">my old profile</a><br>
