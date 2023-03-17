@@ -15,18 +15,17 @@ I'm Maks! I'm a self-taught backend developer and a studing software engineer fr
 <br>
 
 ### 😶‍🌫️About ME: <br>
-<img align="right" alt="GIF" width="400px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="GIF" width="400px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/><br>
 <!-- I have some problems with old account -> <a href="https://github.com/maksyymK">my old profile</a><br> -->
-🎂 17<br>
-🎬 I prefer watching Motorspot & Kybersport <br>
-👨🏻‍🎓 Studying in Switzerland & online in Ukraine <br>
-🖼️ Live my best life, hote I do!
+- 🎂 17<br>
+- 🎬 I prefer watching Motorspot & Kybersport <br>
+- 👨🏻‍🎓 Studying in Switzerland & online in Ukraine <br>
+- 🖼️ Live my best life, hote I do!
 <br>
 
 ### 👩🏻‍💻Tech Stack: <br>
-💻 Coding on Java, Kotlin, C++ <br>
-🍃 Spring Boot<br>
-🎴 Android Development <br>
-
-<br><br>
+- 💻 Coding on Java, Kotlin, C++ <br>
+- 🍃 Spring Boot<br>
+- 🎴 Android Development <br>
+<br>
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
