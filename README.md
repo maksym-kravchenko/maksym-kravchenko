@@ -2,7 +2,7 @@
 
 ### 🐱‍🚀About me: <br>
 <img align="right" alt="Java" width="400px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
-<a href="https://github.com/maksyymK">My old profile</a><br>
+I have some problems with old account -> <a href="https://github.com/maksyymK">my old profile</a><br>
 🎂 17<br>
 🎬 I prefer watching Motorspot & Kybersport <br>
 👨🏻‍🎓 Сurrently studying in Switzerland <br><br>
