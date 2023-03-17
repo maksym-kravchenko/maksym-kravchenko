@@ -19,7 +19,7 @@ I'm Maks! I'm a self-taught backend developer and a studing software engineer fr
  
 ### 😶‍🌫️About ME: <br>
 <!-- I have some problems with old account -> <a href="https://github.com/maksyymK">my old profile</a><br> -->
-<img align="right" alt="Java" width="400px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
   <br>
 - 🎂 17<br>
 - 🎬 I prefer watching Motorspot & Kybersport <br>
