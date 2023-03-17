@@ -25,9 +25,11 @@ I'm Maks! I'm a self-taught backend developer and a studing software engineer fr
 - 🖼️ Live my best life, hote I do! <br>
 
 ### 👩🏻‍💻Tech Stack: <br>
-<img align="right" alt="GIF" width="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 - 💻 Coding on Java, Kotlin, C++ <br>
 - 🍃 Spring Boot<br>
 - 🎴 Android Development <br>
+
+<img align="right" alt="GIF" width="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 <br>
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
