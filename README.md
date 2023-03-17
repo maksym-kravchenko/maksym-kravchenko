@@ -16,6 +16,8 @@
 <br>
 I'm Maks! I'm a self-taught backend developer and a studing software engineer from Ukraine. Сurrently I'm in Switzerland: studying and continuing coding.
 <br>
+
+<img align="right" alt="GIF" width="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> <br>
  
 ### 😶‍🌫️About ME: <br>
 <!-- I have some problems with old account -> <a href="https://github.com/maksyymK">my old profile</a><br> -->
@@ -23,8 +25,6 @@ I'm Maks! I'm a self-taught backend developer and a studing software engineer fr
 - 🎬 I prefer watching Motorspot & Kybersport <br>
 - 👨🏻‍🎓 Studying in Switzerland & online in Ukraine <br>
 - 🖼️ Live my best life, hote I do! <br>
-
-### <img align="right" alt="GIF" width="300px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/> <br>
 
 ### 👩🏻‍💻Tech Stack: <br>
 - 💻 Coding on Java, Kotlin, C++ <br>
