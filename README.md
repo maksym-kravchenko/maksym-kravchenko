@@ -15,9 +15,10 @@
 <br>
 I'm Maks! I'm a self-taught backend developer and a studing software engineer from Ukraine. Сurrently I'm in Switzerland: studying and continuing coding.
 <br>
-
-<img align="right" alt="GIF" width="300px" higth="200px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/><br>
-
+<Grid>
+<img align="right" alt="GIF" width="300px" higth="200px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</Grid>
+ 
 ### 😶‍🌫️About ME: <br>
 <!-- I have some problems with old account -> <a href="https://github.com/maksyymK">my old profile</a><br> -->
 - 🎂 17<br>
