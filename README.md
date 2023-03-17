@@ -1,7 +1,17 @@
 <h1 align="center">Hi, I'm Maksym 👋</h1>
 
+<a href="https://www.instagram.com/maksyym.k/">
+  <img align="left" alt="Maksym's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discordapp.com/user/675983341354352691">
+  <img align="left" alt="Maksym's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/maksyym_k">
+  <img align="left" alt="Maksym | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 ### 🐱‍🚀About me: <br>
-<img align="right" alt="Java" width="400px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<img align="right" alt="Java" width="400px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 I have some problems with old account -> <a href="https://github.com/maksyymK">my old profile</a><br>
 🎂 17<br>
 🎬 I prefer watching Motorspot & Kybersport <br>
