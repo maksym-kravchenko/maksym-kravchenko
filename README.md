@@ -32,4 +32,7 @@ I'm Maks! I'm a self-taught backend developer and a studing software engineer fr
 
 <br>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
+<a href="https://stand-with-ukraine.pp.ua">
+  <img align="left" alt="SupportUkraine" width="100px" src="" />
+</a>
