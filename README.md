@@ -23,7 +23,7 @@ I'm Maks! I'm a self-taught backend developer and a studing software engineer fr
 - 🎂 17<br>
 - 🎬 I prefer watching Motorspot & Kybersport <br>
 - 👨🏻‍🎓 Studying in Switzerland & online in Ukraine <br>
-- 🖼️ Live my best life, hote I do! <br>
+- 🖼️ Live my best life, hope I do! <br>
 
 ### 👩🏻‍💻Tech Stack: <br>
 - 💻 Coding on Java, Kotlin, C++ <br>
