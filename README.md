@@ -27,7 +27,7 @@ I'm Maks! I'm a self-taught backend developer and a studing software engineer fr
 
 ### 👩🏻‍💻Tech Stack: <br>
 - 💻 Coding on Java, Kotlin, C++ <br>
-- 🍃 Spring Boot<br>
+- 🍃 Spring Boot, Jetpack Compose<br>
 - 🎴 Android Development <br>
 
 <br>
