@@ -21,8 +21,3 @@
 - 🎴 Android Development <br>
 
 <br>
-
-<br><br><br>
-<a href="https://stand-with-ukraine.pp.ua">
-  <img align="left" alt="SupportUkraine" width="700px" src="https://raw.githubusercontent.com/maksym-kravchenko/maksym-kravchenko/master/banner2-no-action.svg" />
-</a>
