@@ -29,9 +29,9 @@
 ---
 
 ## 📌 Featured Projects
-- All my Projects have Private Status
----
-
+### My Projects have Private Status
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksym-kravchenko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&theme=default)
+ 
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/maksym-kravchenko-16j07)
