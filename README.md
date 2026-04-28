@@ -30,7 +30,7 @@
 
 ## 📌 Featured Projects
 ### My Projects have Private Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksym-kravchenko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksym-kravchenko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&theme=dark)
  
 ## 📫 Get in Touch
 
