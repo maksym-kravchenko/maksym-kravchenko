@@ -2,10 +2,10 @@
 
 > *Full-Stack Developer — Backend at Heart*
 
-### 🔒 Main (private work)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksym-kravchenko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&theme=default)
-### 🔓 Secondary (office work)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=real-maksym-kravchenko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=stars&theme=default)
+### 🔒 Personal — maksym-kravchenko
+![Streak Stats](https://streak-stats.demolab.com?user=maksym-kravchenko&hide_border=true&theme=tokyonight)
+### 🏢 Work — real-maksym-kravchenko
+![Streak Stats](https://streak-stats.demolab.com?user=real-maksym-kravchenko&hide_border=true&theme=tokyonight)
  
 ## 📫 Get in Touch
 
